@@ -5,10 +5,10 @@
 Welkom bij mijn porfolio voor SLB jaar 3.
 
 In het derde studiejaar zijn 2 studiepunten gereserveerd voor SLB en worden er verschillende activiteiten gepland. Dit zijn:  
-â€¢	Individuele gesprekken met je SLBâ€™er waarbij er aandacht is voor je persoonlijke ontwikkeling en je studievoortgang  
-â€¢	Groepsbijeenkomsten: hierin krijg je informatie over de opleiding en werk je aan SLB-opdrachten  
-â€¢	Activiteiten gericht op stage en arbeidsmarkt-oriÃ«ntatie   
-â€¢	Hiernaast zal je individueel aan verschillende opdrachten werken.  
+*   Individuele gesprekken met je SLB'er waarbij er aandacht is voor je persoonlijke ontwikkeling en je studievoortgang  
+*   Groepsbijeenkomsten: hierin krijg je informatie over de opleiding en werk je aan SLB-opdrachten  
+*   Activiteiten gericht op stage en arbeidsmarkt-oriÃ«ntatie   
+*   Hiernaast zal je individueel aan verschillende opdrachten werken.  
 
 
 
