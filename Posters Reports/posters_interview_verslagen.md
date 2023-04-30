@@ -23,7 +23,7 @@
 
 ### Waarom heb je R Shiny gebruikt en niet een andere programmeertaal?
 
-> Een andere student heeft de interface ontwikkeld met R Shiny. Ik heb alleen de visualisaties ingebouwd in de bestaande interface. Daarom heb ik R Shiny gebruikt en geen andere programmeertaal. Waarschijnlijk is hiervoor gekozen, omdat het heel gemakkelijk is om met R Shiny een interface te maken en er wordt ook veel gebruik gemaakt van R.
+> **Een andere student heeft de interface ontwikkeld met R Shiny. Ik heb alleen de visualisaties ingebouwd in de bestaande interface. Daarom heb ik R Shiny gebruikt en geen andere programmeertaal. Waarschijnlijk is hiervoor gekozen, omdat het heel gemakkelijk is om met R Shiny een interface te maken en er wordt ook veel gebruik gemaakt van R.**
 
 ### Hoe heb jij je onderzoek aangepakt?
 
