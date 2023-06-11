@@ -6,9 +6,19 @@ Welkom bij mijn porfolio voor SLB jaar 3.
 
 In het derde studiejaar zijn 2 studiepunten gereserveerd voor SLB en worden er verschillende activiteiten gepland. Dit zijn:  
 *   Individuele gesprekken met je SLB'er waarbij er aandacht is voor je persoonlijke ontwikkeling en je studievoortgang  
-*   Groepsbijeenkomsten: hierin krijg je informatie over de opleiding en werk je aan SLB-opdrachten  
+*   Groepsbijeenkomsten: hierin krijg ik informatie over de opleiding en werk ik aan SLB-opdrachten  
 *   Activiteiten gericht op stage en arbeidsmarkt-oriëntatie   
-*   Hiernaast zal je individueel aan verschillende opdrachten werken.  
+*   Hiernaast zal ik individueel aan verschillende opdrachten werken. 
+
+```
+├─ Afstudeer Verslagen (De afstudeer verslagen)
+├─ Curriculum Vitae (CV en motivatie brief)
+├─ Meet and Greet (Verslagen met bedrijven die hier waren)
+├─ Posters Reports (Verslagen van de poster die op de meet and greet waren en een verslagen met een student)
+├─ Symposium Verslagen (Veslagen van symposium die ik heb bijgewoond)
+├─ VOA (Voa lijst)
+├─ Stage (Studieplanning voor stage en meer stage dingen)
+```
 
 
 
